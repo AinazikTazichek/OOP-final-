@@ -7,11 +7,11 @@ This is my university semester project. This software is developed in JavaFX lan
 <hr>
 
 ### Main Window
-![main window](https://raw.githubusercontent.com/zawster/Unirome/master/images/main-1.png)
+  ![Images](/images/PIC1.png)
 <hr>
 
 ### Faculty Dashboard
-![faculty dashboard](https://raw.githubusercontent.com/zawster/Unirome/master/images/facultyDash-2.png)
+  ![Images](/images/PIC2.png)
 <hr>
 
 ### Admin Dashboard
