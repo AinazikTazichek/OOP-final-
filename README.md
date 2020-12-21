@@ -1,4 +1,4 @@
-# Unirom
+# AIU CAMPUS
 University Management System developed in JavaFX.
 <hr>
 
